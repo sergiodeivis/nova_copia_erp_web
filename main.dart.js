@@ -101310,7 +101310,7 @@ a.a_(t.J).f.dJ(B.af6)
 case 1:return A.A(q,r)}})
 return A.B($async$uN,r)}}
 A.aak.prototype={
-$1(a){return A.iS(A.b([A.eT(B.akY,new A.aaj(a),null)],t.p),B.am1,null,B.alt)},
+$1(a){return A.iS(A.b([A.eT(B.akY,new A.aaj(a),null)],t.p),B.am0,null,B.alt)},
 $S:24}
 A.aaj.prototype={
 $0(){return A.cc(this.a,!1).ft()},
@@ -102770,7 +102770,7 @@ p=A.U("Configura\xe7\xf5es",q,q,q,p==null?q:p.ZK(B.K),q,q,q)
 s=A.cv(12)
 s=A.ev(A.EZ(!1,q,q,q,!0,q,!0,q,B.VX,q,new A.aA5(a),!1,q,q,q,B.akD,q,B.Mk,q,q,q),q,3,q,q,new A.bZ(s,B.r))
 r=A.cv(12)
-return A.hm(q,q,new A.ar(B.c5,A.bo(A.b([p,B.hh,s,B.a9,A.ev(A.EZ(!1,q,q,q,!0,q,!0,q,B.W1,q,new A.aA6(),!1,q,q,q,B.alQ,q,B.al3,q,q,q),q,3,q,q,new A.bZ(r,B.r))],t.p),B.a2,B.k,B.m),q),q)}}
+return A.hm(q,q,new A.ar(B.c5,A.bo(A.b([p,B.hh,s,B.a9,A.ev(A.EZ(!1,q,q,q,!0,q,!0,q,B.W1,q,new A.aA6(),!1,q,q,q,B.ama,q,B.al3,q,q,q),q,3,q,q,new A.bZ(r,B.r))],t.p),B.a2,B.k,B.m),q),q)}}
 A.aA5.prototype={
 $0(){var s=A.tE(new A.aA4(),null,t.z)
 A.cc(this.a,!1).j8(s)},
@@ -102975,7 +102975,7 @@ return A.B($async$$0,r)},
 $S:8}
 A.aLK.prototype={
 $1(a){var s=null,r=A.U("Deseja realmente excluir "+this.a.b+"?",s,s,s,s,s,s,s)
-return A.iS(A.b([A.eT(B.ef,new A.aLI(a),s),A.p5(!1,B.iX,s,s,s,s,s,s,new A.aLJ(a),s,s)],t.p),r,s,B.alS)},
+return A.iS(A.b([A.eT(B.ef,new A.aLI(a),s),A.p5(!1,B.iX,s,s,s,s,s,s,new A.aLJ(a),s,s)],t.p),r,s,B.alR)},
 $S:24}
 A.aLI.prototype={
 $0(){A.cc(this.a,!1).d_(!1)
@@ -103791,7 +103791,7 @@ return null},
 $S:0}
 A.aD3.prototype={
 $1(a){var s=null
-return A.iS(A.b([A.eT(B.ef,new A.aD1(a),s),A.p5(!1,B.iX,s,s,s,s,s,s,new A.aD2(a),s,s)],t.p),B.alO,s,B.alT)},
+return A.iS(A.b([A.eT(B.ef,new A.aD1(a),s),A.p5(!1,B.iX,s,s,s,s,s,s,new A.aD2(a),s,s)],t.p),B.alO,s,B.alS)},
 $S:24}
 A.aD1.prototype={
 $0(){A.cc(this.a,!1).d_(!1)
@@ -105035,7 +105035,7 @@ B.b.jf(k)
 for(s=k.length,o=0,r="";o<k.length;k.length===s||(0,A.N)(k),++o,r=n){j=k[o]
 n=p.h(0,j)
 n.toString
-n=r+(""+n+" x "+j+"\n")}i=B.d.bQ(r.charCodeAt(0)==0?r:r)
+n=r+(""+n+" "+j+"\n")}i=B.d.bQ(r.charCodeAt(0)==0?r:r)
 h=g.ST()
 s=A.nb("MM/yyyy",f)
 r=g.x
@@ -105797,7 +105797,7 @@ r.y=r.w=null}}r.M(new A.aGS(r))},
 Qp(a){return this.GW(a,null,null)},
 abC(a){return this.GW(null,null,a)},
 Qq(a){return this.GW(null,a,null)},
-G(a){var s,r=this,q=null,p=t.p,o=A.jA(A.b([A.dY(q,A.aP3(B.k9,"Nova Ordem Servi\xe7o",new A.aHd(r)),B.D,q,q,q,q,q,q,B.nz,q,q,q,q)],p),q,q,q,q,q,q,q,q,q,B.alU),n=r.f,m=A.cv(12),l=n.a.a.length!==0?A.ey(q,q,q,B.ka,q,q,new A.aHe(r),q,q,q,q):q
+G(a){var s,r=this,q=null,p=t.p,o=A.jA(A.b([A.dY(q,A.aP3(B.k9,"Nova Ordem Servi\xe7o",new A.aHd(r)),B.D,q,q,q,q,q,q,B.nz,q,q,q,q)],p),q,q,q,q,q,q,q,q,q,B.alT),n=r.f,m=A.cv(12),l=n.a.a.length!==0?A.ey(q,q,q,B.ka,q,q,new A.aHe(r),q,q,q,q):q
 l=A.cR(q,B.a3,!1,q,!0,B.q,q,A.cX(),n,q,q,q,q,q,2,A.kJ(q,new A.fJ(4,m,B.en),q,q,q,q,q,q,!0,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,"Buscar por cliente",!0,!0,q,B.fG,q,q,q,q,q,q,l,q,q,q,q,q),B.B,!0,q,!0,q,!1,q,B.W,q,q,q,q,q,q,q,q,1,q,q,!1,"\u2022",q,new A.aHf(r),q,q,q,!1,q,q,!1,q,!0,q,B.a5,q,q,q,q,q,q,q,q,q,q,q,q,!0,B.M,q,B.a6,q,q,q,q)
 m=r.w
 n=A.b([B.TT],t.qk)
@@ -105987,7 +105987,7 @@ return A.B($async$$0,r)},
 $S:8}
 A.aGV.prototype={
 $1(a){var s=null,r=this.a
-return A.iS(A.b([A.eT(B.ef,new A.aGT(r),s),A.p5(!1,B.iX,s,s,s,s,s,s,new A.aGU(r),s,A.f4(s,s,B.by,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s))],t.p),B.am8,s,B.ami)},
+return A.iS(A.b([A.eT(B.ef,new A.aGT(r),s),A.p5(!1,B.iX,s,s,s,s,s,s,new A.aGU(r),s,A.f4(s,s,B.by,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s))],t.p),B.am7,s,B.ami)},
 $S:24}
 A.aGT.prototype={
 $0(){var s=this.a.c
@@ -110108,8 +110108,8 @@ B.all=new A.a7("Selecione uma calculadora",null,null,null,null,null,null,null,nu
 B.PY=new A.fD(B.a7,null,null,B.all,null)
 B.al5=new A.a7("Nenhum lan\xe7amento encontrado.",null,null,null,null,null,null,null,null,null)
 B.PZ=new A.fD(B.a7,null,null,B.al5,null)
-B.am7=new A.a7("Nenhum cliente encontrado.",null,null,null,null,null,null,null,null,null)
-B.rK=new A.fD(B.a7,null,null,B.am7,null)
+B.am6=new A.a7("Nenhum cliente encontrado.",null,null,null,null,null,null,null,null,null)
+B.rK=new A.fD(B.a7,null,null,B.am6,null)
 B.alx=new A.a7("Nenhum insumo encontrado.",null,null,null,null,null,null,null,null,null)
 B.Q_=new A.fD(B.a7,null,null,B.alx,null)
 B.ale=new A.a7("Nenhuma OS encontrada para o filtro.",null,null,null,null,null,null,null,null,null)
@@ -110117,8 +110117,8 @@ B.Q0=new A.fD(B.a7,null,null,B.ale,null)
 B.aqg=new A.avU(0,"material")
 B.rM=new A.lC(null,null,null,null,null,null,null,null,null,null)
 B.dL=new A.fD(B.a7,null,null,B.rM,null)
-B.alR=new A.a7("Bem-vindo ao Nova C\xf3pia ERP!",null,null,null,null,null,null,null,null,null)
-B.Q1=new A.fD(B.a7,null,null,B.alR,null)
+B.alQ=new A.a7("Bem-vindo ao Nova C\xf3pia ERP!",null,null,null,null,null,null,null,null,null)
+B.Q1=new A.fD(B.a7,null,null,B.alQ,null)
 B.alf=new A.a7("Nenhum usu\xe1rio cadastrado.",null,null,null,null,null,null,null,null,null)
 B.Q2=new A.fD(B.a7,null,null,B.alf,null)
 B.alb=new A.a7("Nenhum dado encontrado.",null,null,null,null,null,null,null,null,null)
@@ -111469,16 +111469,16 @@ B.al7=new A.a7(u.H,null,null,null,null,null,null,null,null,null)
 B.TQ=new A.b8(u.H,B.al7,B.S,null,t.r)
 B.al8=new A.a7(u.Q,null,null,null,null,null,null,null,null,null)
 B.TR=new A.b8(u.Q,B.al8,B.S,null,t.r)
-B.alV=new A.a7(u.O,null,null,null,null,null,null,null,null,null)
-B.Tj=new A.b8(u.O,B.alV,B.S,null,t.r)
-B.alW=new A.a7(u.J,null,null,null,null,null,null,null,null,null)
-B.Tk=new A.b8(u.J,B.alW,B.S,null,t.r)
-B.alX=new A.a7(u.V,null,null,null,null,null,null,null,null,null)
-B.Tl=new A.b8(u.V,B.alX,B.S,null,t.r)
-B.alY=new A.a7(u.L,null,null,null,null,null,null,null,null,null)
-B.Tm=new A.b8(u.L,B.alY,B.S,null,t.r)
-B.alZ=new A.a7(u.g,null,null,null,null,null,null,null,null,null)
-B.Tn=new A.b8(u.g,B.alZ,B.S,null,t.r)
+B.alU=new A.a7(u.O,null,null,null,null,null,null,null,null,null)
+B.Tj=new A.b8(u.O,B.alU,B.S,null,t.r)
+B.alV=new A.a7(u.J,null,null,null,null,null,null,null,null,null)
+B.Tk=new A.b8(u.J,B.alV,B.S,null,t.r)
+B.alW=new A.a7(u.V,null,null,null,null,null,null,null,null,null)
+B.Tl=new A.b8(u.V,B.alW,B.S,null,t.r)
+B.alX=new A.a7(u.L,null,null,null,null,null,null,null,null,null)
+B.Tm=new A.b8(u.L,B.alX,B.S,null,t.r)
+B.alY=new A.a7(u.g,null,null,null,null,null,null,null,null,null)
+B.Tn=new A.b8(u.g,B.alY,B.S,null,t.r)
 B.a0U=s([B.Ty,B.Tz,B.TA,B.TB,B.TC,B.TD,B.TE,B.TF,B.TG,B.TH,B.TP,B.TQ,B.TR,B.Tj,B.Tk,B.Tl,B.Tm,B.Tn],t.FG)
 B.oB=s(["\u0635","\u0645"],t.s)
 B.a0V=s(["para Krishtit","mbas Krishtit"],t.s)
@@ -111858,12 +111858,12 @@ B.fV=s(["dim.","lun.","mar.","mer.","jeu.","ven.","sam."],t.s)
 B.kT=s(["\u062c\u0627\u0646\u0641\u064a","\u0641\u064a\u0641\u0631\u064a","\u0645\u0627\u0631\u0633","\u0623\u0641\u0631\u064a\u0644","\u0645\u0627\u064a","\u062c\u0648\u0627\u0646","\u062c\u0648\u064a\u0644\u064a\u0629","\u0623\u0648\u062a","\u0633\u0628\u062a\u0645\u0628\u0631","\u0623\u0643\u062a\u0648\u0628\u0631","\u0646\u0648\u0641\u0645\u0628\u0631","\u062f\u064a\u0633\u0645\u0628\u0631"],t.s)
 B.fW=s(["\u516c\u5143\u524d","\u516c\u5143"],t.s)
 B.a3y=s(["1T","2T","3T","4T"],t.s)
-B.ama=new A.a7(u._,null,null,null,null,null,null,null,null,null)
-B.Tp=new A.b8(u._,B.ama,B.S,null,t.r)
-B.am2=new A.a7(u.A,null,null,null,null,null,null,null,null,null)
-B.Tw=new A.b8(u.A,B.am2,B.S,null,t.r)
-B.am9=new A.a7(u.X,null,null,null,null,null,null,null,null,null)
-B.TJ=new A.b8(u.X,B.am9,B.S,null,t.r)
+B.am9=new A.a7(u._,null,null,null,null,null,null,null,null,null)
+B.Tp=new A.b8(u._,B.am9,B.S,null,t.r)
+B.am1=new A.a7(u.A,null,null,null,null,null,null,null,null,null)
+B.Tw=new A.b8(u.A,B.am1,B.S,null,t.r)
+B.am8=new A.a7(u.X,null,null,null,null,null,null,null,null,null)
+B.TJ=new A.b8(u.X,B.am8,B.S,null,t.r)
 B.amf=new A.a7("Arredondar 4 ou 2 cantos do cart\xe3o",null,null,null,null,null,null,null,null,null)
 B.Ti=new A.b8("Arredondar 4 ou 2 cantos do cart\xe3o",B.amf,B.S,null,t.r)
 B.a3z=s([B.Tp,B.Tw,B.TJ,B.Ti],t.FG)
@@ -112088,8 +112088,8 @@ B.alC=new A.a7(u.N,null,null,null,null,null,null,null,null,null)
 B.TN=new A.b8(u.N,B.alC,B.S,null,t.r)
 B.alF=new A.a7(u.x,null,null,null,null,null,null,null,null,null)
 B.TK=new A.b8(u.x,B.alF,B.S,null,t.r)
-B.am5=new A.a7(u.c,null,null,null,null,null,null,null,null,null)
-B.Tr=new A.b8(u.c,B.am5,B.S,null,t.r)
+B.am4=new A.a7(u.c,null,null,null,null,null,null,null,null,null)
+B.Tr=new A.b8(u.c,B.am4,B.S,null,t.r)
 B.alA=new A.a7("SUBLIMA\xc7\xc3O, cord\xe3o personalizado (15mm)",null,null,null,null,null,null,null,null,null)
 B.Tt=new A.b8("SUBLIMA\xc7\xc3O, cord\xe3o personalizado (15mm)",B.alA,B.S,null,t.r)
 B.alB=new A.a7("SUBLIMA\xc7\xc3O, cord\xe3o personalizado (20mm)",null,null,null,null,null,null,null,null,null)
@@ -113468,8 +113468,8 @@ B.akH=new A.a7("Todos os itens carregados",null,null,null,null,null,null,null,nu
 B.ab5=new A.ar(B.dT,B.akH,null)
 B.Uk=new A.ac(0,12,0,8)
 B.ahA=new A.q(!0,B.j,null,null,null,null,18,B.K,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.am0=new A.a7("Calculadoras",null,B.ahA,null,null,null,null,null,null,null)
-B.ab6=new A.ar(B.Uk,B.am0,null)
+B.am_=new A.a7("Calculadoras",null,B.ahA,null,null,null,null,null,null,null)
+B.ab6=new A.ar(B.Uk,B.am_,null)
 B.H_=new A.ar(B.dT,B.dL,null)
 B.ab7=new A.ar(B.dT,B.rM,null)
 B.Sq=new A.fl("T\xedtulo","*** ENDERE\xc7O ***",!0,null)
@@ -113850,14 +113850,14 @@ B.LP=new A.mi(5,"timeout")
 B.af2=new A.yO(null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.akR=new A.a7("Usu\xe1rio criado com sucesso!",null,null,null,null,null,null,null,null,null)
 B.af3=new A.ho(B.akR,null,null,null,null,null,null,null,null,null,null,null,null,B.aT,null,null,null,B.q,null)
-B.am6=new A.a7("Preencha o cliente, prazo e adicione ao menos um item.",null,null,null,null,null,null,null,null,null)
-B.af4=new A.ho(B.am6,null,null,null,null,null,null,null,null,null,null,null,null,B.aT,null,null,null,B.q,null)
+B.am5=new A.a7("Preencha o cliente, prazo e adicione ao menos um item.",null,null,null,null,null,null,null,null,null)
+B.af4=new A.ho(B.am5,null,null,null,null,null,null,null,null,null,null,null,null,B.aT,null,null,null,B.q,null)
 B.aly=new A.a7("Adicione ao menos um item.",null,null,null,null,null,null,null,null,null)
 B.af5=new A.ho(B.aly,null,null,null,null,null,null,null,null,null,null,null,null,B.aT,null,null,null,B.q,null)
-B.am3=new A.a7("Ordem de servi\xe7o gerada com sucesso!",null,null,null,null,null,null,null,null,null)
-B.af6=new A.ho(B.am3,null,null,null,null,null,null,null,null,null,null,null,null,B.aT,null,null,null,B.q,null)
-B.am_=new A.a7("N\xe3o h\xe1 itens para gerar imagem",null,null,null,null,null,null,null,null,null)
-B.af7=new A.ho(B.am_,null,null,null,null,null,null,null,null,null,null,null,null,B.aT,null,null,null,B.q,null)
+B.am2=new A.a7("Ordem de servi\xe7o gerada com sucesso!",null,null,null,null,null,null,null,null,null)
+B.af6=new A.ho(B.am2,null,null,null,null,null,null,null,null,null,null,null,null,B.aT,null,null,null,B.q,null)
+B.alZ=new A.a7("N\xe3o h\xe1 itens para gerar imagem",null,null,null,null,null,null,null,null,null)
+B.af7=new A.ho(B.alZ,null,null,null,null,null,null,null,null,null,null,null,null,B.aT,null,null,null,B.q,null)
 B.alD=new A.a7("Or\xe7amento copiado para a \xe1rea de transfer\xeancia!",null,null,null,null,null,null,null,null,null)
 B.af8=new A.ho(B.alD,null,null,null,null,null,null,null,null,null,null,null,null,B.aT,null,null,null,B.q,null)
 B.alh=new A.a7("N\xe3o foi poss\xedvel abrir o link",null,null,null,null,null,null,null,null,null)
@@ -113866,8 +113866,8 @@ B.alP=new A.a7("Ordem exclu\xedda com sucesso.",null,null,null,null,null,null,nu
 B.afa=new A.ho(B.alP,null,null,null,null,null,null,null,null,null,null,null,null,B.aT,null,null,null,B.q,null)
 B.al9=new A.a7("Usu\xe1rio atualizado com sucesso!",null,null,null,null,null,null,null,null,null)
 B.afb=new A.ho(B.al9,null,null,null,null,null,null,null,null,null,null,null,null,B.aT,null,null,null,B.q,null)
-B.am4=new A.a7("N\xe3o h\xe1 itens para copiar",null,null,null,null,null,null,null,null,null)
-B.afc=new A.ho(B.am4,null,null,null,null,null,null,null,null,null,null,null,null,B.aT,null,null,null,B.q,null)
+B.am3=new A.a7("N\xe3o h\xe1 itens para copiar",null,null,null,null,null,null,null,null,null)
+B.afc=new A.ho(B.am3,null,null,null,null,null,null,null,null,null,null,null,null,B.aT,null,null,null,B.q,null)
 B.LQ=new A.HG(0,"permissive")
 B.afd=new A.HG(1,"normal")
 B.afe=new A.HG(2,"forced")
@@ -114322,13 +114322,13 @@ B.alK=new A.a7("Resumo Detalhado (Valor/OS)",null,null,null,null,null,null,null,
 B.alM=new A.a7("Selecionar Cliente",null,null,null,null,null,null,null,null,null)
 B.alN=new A.a7("Parceiro",null,null,null,null,null,null,null,null,null)
 B.alO=new A.a7("Deseja realmente excluir este lan\xe7amento?",null,null,null,null,null,null,null,null,null)
-B.alQ=new A.a7("Vers\xe3o 1.1.0 - Desenvolvido para franquias",null,null,null,null,null,null,null,null,null)
-B.alS=new A.a7("Excluir usu\xe1rio",null,null,null,null,null,null,null,null,null)
+B.alR=new A.a7("Excluir usu\xe1rio",null,null,null,null,null,null,null,null,null)
 B.hk=new A.a7("Quantidade:",null,null,null,null,null,null,null,null,null)
-B.alT=new A.a7("Confirmar exclus\xe3o",null,null,null,null,null,null,null,null,null)
-B.alU=new A.a7("Ordens de Servi\xe7o",null,null,null,null,null,null,null,null,null)
-B.am1=new A.a7("Por favor, preencha o prazo de entrega.",null,null,null,null,null,null,null,null,null)
-B.am8=new A.a7("Tem certeza que deseja excluir esta ordem?",null,null,null,null,null,null,null,null,null)
+B.alS=new A.a7("Confirmar exclus\xe3o",null,null,null,null,null,null,null,null,null)
+B.alT=new A.a7("Ordens de Servi\xe7o",null,null,null,null,null,null,null,null,null)
+B.am0=new A.a7("Por favor, preencha o prazo de entrega.",null,null,null,null,null,null,null,null,null)
+B.am7=new A.a7("Tem certeza que deseja excluir esta ordem?",null,null,null,null,null,null,null,null,null)
+B.ama=new A.a7("Vers\xe3o 1.1.1 - Desenvolvido para franquias",null,null,null,null,null,null,null,null,null)
 B.amb=new A.a7("Itens:",null,B.qf,null,null,null,null,null,null,null)
 B.amc=new A.a7("Tipo de panfleto:",null,null,null,null,null,null,null,null,null)
 B.ef=new A.a7("Cancelar",null,null,null,null,null,null,null,null,null)
